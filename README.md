@@ -14,5 +14,6 @@ Sample website with plenty of files for demos
 This is Deployment 
 
 ##How To contribute
+please fork this repository and then issue pull request for review.
 
 this is website with plenty of files for demos.
