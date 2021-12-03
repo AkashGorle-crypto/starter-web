@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akash      Traine programmer  @something
 
 # THANKS
 
